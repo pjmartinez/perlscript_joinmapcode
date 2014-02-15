@@ -6,7 +6,7 @@ use Data::Dumper;
 ##########################
 #this script change Genotyping call to joinmap code for 
 # a F1 population
-#PJMG 2014
+#PJMG 2014_Jacob help_Sanvalentin Day
 #############################
 
 
